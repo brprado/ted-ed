@@ -29,6 +29,10 @@ public class Questao2 {
         System.out.println("Root: " + tree.getRoot());
         System.out.println("Left child: " + tree.getRoot().getLeftChild());
         System.out.println("Right child: " + tree.getRoot().getRightChild());
+        
+        // pre order method
+        
+        System.out.println("---------PRE ORDER----------");
 
         preOrder(tree.getRoot());
     }
