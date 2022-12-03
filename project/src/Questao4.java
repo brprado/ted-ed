@@ -31,7 +31,7 @@ public class Questao4 {
         System.out.println("Left child: " + tree.getRoot().getLeftChild());
         System.out.println("Right child: " + tree.getRoot().getRightChild());
         
-    // pos order method
+    // pos order method //
         
         System.out.println("---------POS ORDER----------");
         
